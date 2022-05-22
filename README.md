@@ -1,2 +1,2 @@
 # Desafio-D24
- dkbhVEBHFJKEAF
+ Deixando o site do Enzo Pasqual responsivo.
